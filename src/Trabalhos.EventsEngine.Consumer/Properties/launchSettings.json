@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Trabalhos.EventsEngine.Consumer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
